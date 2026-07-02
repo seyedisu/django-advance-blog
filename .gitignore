@@ -3,4 +3,4 @@ core/db.sqlite3
 .pytest_cashe/
 .vscode/
 __pycashe__/
-githubtoken.txt
+personal.txt
