@@ -5,6 +5,6 @@ from .models import Post, Category
 
 @admin.register(Post)
 class PostAdmin(admin.ModelAdmin):
-    list_display = ["author", "title", "status", "category"]
+    list_display = ["id", "author", "title", "status", "category"]
 
 admin.site.register(Category)
