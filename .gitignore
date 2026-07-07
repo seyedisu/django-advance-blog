@@ -4,3 +4,4 @@ core/db.sqlite3
 .vscode/
 __pycashe__/
 personal.txt
+__pycache__/
